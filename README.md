@@ -1,4 +1,4 @@
 # np-style
-nicepage css
+np css
 License https://froala.com/wysiwyg-editor/terms/
 
