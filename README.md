@@ -1,5 +1,5 @@
 # np-style
-np css
+style css
 License https://froala.com/wysiwyg-editor/terms/
 
 jquery js
